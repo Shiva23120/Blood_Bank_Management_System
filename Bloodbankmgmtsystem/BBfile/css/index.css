@@ -1,0 +1,73 @@
+body
+{
+	margin: 0;
+	padding: 0;
+	background-image: url("pqr.jpg");
+}
+ul
+{
+	list-style-type: none;
+	background-color: red;
+	height: 40px;
+	width:100%;
+	background-image: url("pqr.jpg");
+	
+	
+}
+a
+{
+	text-decoration: none;
+	font-size: 25px;
+	color:white;
+	position: relative;
+	top: 4px;
+}
+li
+{
+	display: inline;
+	font-style: 15px;
+	padding: 38px;
+	margin-left: 20	px;
+	position: relative;
+	left: 70px;
+
+
+}
+
+p
+{
+	text-align: justify;
+	max-width: 1000px;
+	max-height: 80px;
+	position: absolute;
+	left: 60px;
+	font-size: 20px;
+	top: 350px;
+	margin-left: 95px;
+}
+h6
+{
+	position: relative;
+	top: 180px;
+	left:60px;
+	font-size: 20px;
+	margin-left: 95px;
+}
+
+.bloodquery
+{
+	position: relative;
+	top:160px;
+	left: 60px;
+	font-size: 20px;
+	margin-left: 95px;
+
+}
+.ongoingcamps
+{
+	position: relative;
+	top: 180px;
+	left: 60px;
+	font-size: 20px;
+	margin-left: 95px;
+}

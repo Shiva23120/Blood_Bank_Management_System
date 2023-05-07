@@ -1,0 +1,52 @@
+body
+{
+	margin: 0;
+	padding:0;
+	background-image: url("/images/bloodcell.jpg");
+}
+form
+{
+	border:2px solid lightblue;
+	height:600px;
+	width: 800px;
+	margin-left: 350px;
+	margin-top: 10px;
+	margin-right: 100px;
+}
+input[type=text], input[type=password]
+{
+	width: 570px;
+	height:1px;	
+	padding: 20px;
+	font-weight: bolder;
+	font-size: 50px;
+	position: relative;
+	left: 40px;
+	top: 40px;
+}
+button
+{
+	width:90px;
+	height:40px;
+	font-weight: bolder;
+	position: relative;
+	left: 350px;
+	top: 50px;
+	background-color: red;
+}
+label
+{
+	font-weight: bold;
+	position: relative;
+	left: 40px;
+	font-size: 15	px;
+	top: 40px;
+}
+h1
+{
+color:red;
+position: relative;
+left:350px;
+top: 40px;
+}
+

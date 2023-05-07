@@ -1,0 +1,31 @@
+
+  body{
+
+  	color:white;
+    background-image: url("pptt.jpg");
+  	
+  }
+
+
+
+
+div
+{
+	position:relative;
+	left:7cm;
+
+}
+
+table, td, th {  
+  border: 1px solid #ddd;
+  text-align: center;
+}
+
+table {
+  border-collapse: collapse;
+  width: 100%;
+}
+
+th, td {
+  padding: 15px;
+}

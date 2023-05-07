@@ -1,0 +1,32 @@
+  body{
+
+
+  background-image: url("pqr.jpg");
+
+  }
+    h1
+    {
+
+        
+    	color:green;
+    	text-align:center;
+
+    }
+
+    h2
+    {
+
+        
+    	color:red;
+    	text-align:center;
+
+    }
+      a{
+
+
+color:black;
+
+ font-style:italic;
+ font-size: xx-large;
+ text-align:center;
+      }
